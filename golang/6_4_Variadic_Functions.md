@@ -1,4 +1,4 @@
-## 1⃣ Concept Overview
+## 6.4 Variadic_Functions
 
 ### Introduction
 Variadic functions in Go allow you to pass a variable number of arguments to a function. This is achieved using the `...` (ellipsis) syntax in the function parameters. It is a powerful feature for scenarios where the number of arguments is unknown at compile time.
