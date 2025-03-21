@@ -1,6 +1,6 @@
-## **6.1 Declaring and Calling Functions 
+## 6.1 Declaring and Calling Functions 
 ## 6.2 Function Parameters and Return Values 
-## 6.3 Multiple Return Values**
+## 6.3 Multiple Return Values
 
 ### **1️⃣ Brief Description**  
 Functions in Go are **self-contained blocks of code** that perform a specific task. They help in **code reusability, modularity, and maintainability**.  
